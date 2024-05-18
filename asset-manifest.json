@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-website-project-1/static/css/main.366aa600.css",
+    "main.js": "/react-website-project-1/static/js/main.a354d832.js",
+    "static/media/img 1.png": "/react-website-project-1/static/media/img 1.6f31af51c57b2baee495.png",
+    "static/media/img 14.png": "/react-website-project-1/static/media/img 14.7ea14a02586636d80e9f.png",
+    "static/media/img 15.png": "/react-website-project-1/static/media/img 15.128907f120c8bab8990f.png",
+    "static/media/img 20.png": "/react-website-project-1/static/media/img 20.a5ea134f82bcc00511ae.png",
+    "static/media/img 17.png": "/react-website-project-1/static/media/img 17.b15b947617d736a76342.png",
+    "static/media/img 19.png": "/react-website-project-1/static/media/img 19.4083dc6933eb63ac7690.png",
+    "static/media/img 6.png": "/react-website-project-1/static/media/img 6.5f8c7619378dfe29a364.png",
+    "static/media/img 8.png": "/react-website-project-1/static/media/img 8.5c1ff12f44a76194a556.png",
+    "static/media/img 3.png": "/react-website-project-1/static/media/img 3.7b51dee7f10dce9a247d.png",
+    "static/media/img 21.jpg": "/react-website-project-1/static/media/img 21.9528fa2f2877eb8cf953.jpg",
+    "static/media/img 19.jpg": "/react-website-project-1/static/media/img 19.3632e824f5177ba0c75e.jpg",
+    "static/media/img 9.png": "/react-website-project-1/static/media/img 9.e99d89372be4cc331bfc.png",
+    "static/media/img 20.jpg": "/react-website-project-1/static/media/img 20.098b7be76d76cfe7151b.jpg",
+    "static/media/img 5.png": "/react-website-project-1/static/media/img 5.9c905f25e6d18e5475c4.png",
+    "static/media/img 7.png": "/react-website-project-1/static/media/img 7.ff950e57b947f7be805e.png",
+    "static/media/img 17.jpg": "/react-website-project-1/static/media/img 17.9ed7f74d8858aae5582d.jpg",
+    "static/media/img 4.png": "/react-website-project-1/static/media/img 4.5ccfaaf5e7e766579c75.png",
+    "static/media/img 18.jpg": "/react-website-project-1/static/media/img 18.a757df1b52979e08f859.jpg",
+    "static/media/img 13.png": "/react-website-project-1/static/media/img 13.56680376fed4036c7d5e.png",
+    "static/media/img 10.png": "/react-website-project-1/static/media/img 10.c02da16af68eebe98b54.png",
+    "static/media/logo.png": "/react-website-project-1/static/media/logo.0a93f43c1e6e0551593f.png",
+    "static/media/img 2.png": "/react-website-project-1/static/media/img 2.67def808a0199dc41753.png",
+    "static/media/img 18.png": "/react-website-project-1/static/media/img 18.0ce0779d62bd2b9152ab.png",
+    "static/media/img 12.png": "/react-website-project-1/static/media/img 12.96285b7a7416b37c3768.png",
+    "static/media/img 16.png": "/react-website-project-1/static/media/img 16.20f2d33853b9dea628aa.png",
+    "static/media/img 11.png": "/react-website-project-1/static/media/img 11.ac5ed78ca2fabe50bba6.png",
+    "index.html": "/react-website-project-1/index.html",
+    "main.366aa600.css.map": "/react-website-project-1/static/css/main.366aa600.css.map",
+    "main.a354d832.js.map": "/react-website-project-1/static/js/main.a354d832.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.366aa600.css",
+    "static/js/main.a354d832.js"
+  ]
+}
